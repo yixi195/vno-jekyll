@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://yanshinian.com
 
-description : 物尽其用！人尽其才！两全其美！
-title : 言十年的博客
+description : 这是一个爱学习di年轻人  - -
+title : 爱学习di年轻人的博客
 logo : /avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: 言十年
+  name: 爱学习di年轻人
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: yan@yanshinian.com
-  github: yanshinian
-  twitter: yanshinian
-  facebook: 言十年
-  googleplus: +十年
-  bio: "我是言十年，互相学习，互相进步"
+  email: 195779438@qq.com
+  github: yixi195
+  twitter: 爱学习di年轻人
+  facebook: 爱学习di年轻人
+  googleplus: 爱学习di年轻人
+  bio: "我是爱学习di年轻人，互相学习，互相进步"
   uno-dbyll: /avatar.jpg
